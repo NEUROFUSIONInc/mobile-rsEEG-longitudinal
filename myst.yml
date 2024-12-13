@@ -49,7 +49,7 @@ project:
         - Data Quality
         - Reproducibility
     - name: John Griffiths
-      affiliations: uToronto;CAMH
+      affiliations: UToronto;CAMH
       url: www.grifflab.com
       roles:
         - Analysis Design
