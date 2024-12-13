@@ -139,8 +139,7 @@ project:
   bibliography:
     - paper.bib
   resources:
-    - content/figure1.ipynb
-    - content/figure2.md
+    - content/Interactive_Resting_State_EEG_Analysis.ipynb
 site:
   template: article-theme # Or book-theme
   options:
