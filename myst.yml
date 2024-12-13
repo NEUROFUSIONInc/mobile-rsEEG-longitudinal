@@ -10,7 +10,7 @@ project:
       ref: HEAD # Production will override this.
   authors:
     - name: Minarose Ismail
-      affiliations: uToronto;SickKids
+      affiliations: UToronto;SickKids
       equal_contributor: true
       url: https://minarose.ca
       roles:
@@ -25,12 +25,12 @@ project:
         - Analysis
         - Data Collection
     - name: Renee Lawson
-      affiliations: uToronto
+      affiliations: UToronto
       github: reneelawson
       roles:
         - Analysis
     - name: Kevin Kadak
-      affiliations: uToronto;CAMH
+      affiliations: UToronto;CAMH
       roles:
         - Analysis
         - Data Collection
