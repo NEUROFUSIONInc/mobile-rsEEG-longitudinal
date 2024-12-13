@@ -12,14 +12,25 @@ Despite these technological advances, a significant challenge remains: collectin
 
 In this paper, we present a novel approach to addressing this challenge through the NeuroFusion Explorer platform, which enables systematic collection and analysis of mobile EEG data in naturalistic settings. By focusing on diurnal variations in alpha-band activity, we demonstrate how this platform can be used to map neural correlates of stress and energy levels throughout the day. Our work establishes a framework for conducting longitudinal brain research that bridges the gap between laboratory insights and real-world applications, paving the way for more personalized and context-aware neurotechnology interventions.
 
+![Brain Recording](./static/brain_recording.png)
+
 ## Methods
 
-## Experiment Design
+![](./static/method_experiment.png)
+![](./static/method_experiment2.png)
+![](./static/method_data.png)
 
-## Recording Protocol
 
 ## Analysis
+![](./static/method_preprocessing.png)
 
 ## Results
+![](./static/results.png)
 
 ## Limitations & Next Steps
+- More recordings!
+- Removing confounding factors like environment noise.
+- Removing the human in the loop during data preparation.
+- Recording multiple sessions at the same time.
+- More analysis between frequency bands.
+- Understand how substance use affects neural correlates of stress and energy levels.
