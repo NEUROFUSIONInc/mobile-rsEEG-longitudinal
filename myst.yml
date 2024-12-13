@@ -38,6 +38,21 @@ project:
       affiliations: uToronto
       roles:
         - Data Collection
+    - name: Samantha Bjelis
+      affiliations: waterloo
+      roles:
+        - User Feedback 
+    - name: Povilas Karvelis
+      affiliations: CAMH
+      roles:
+        - Methodology
+        - Data Quality
+        - Reproducibility
+    - name: John Griffiths
+      affiliations: uToronto;CAMH
+      url: www.grifflab.com
+      roles:
+        - Analysis Design
     - name: Ore Ogundipe
       affiliations: neurofusion;UToronto;CAMH
       corresponding: true
@@ -93,6 +108,13 @@ project:
       region: Ontario
       country: Canada
       postal_code: MG5 0A4 
+    - id: waterloo
+      institution: University of Waterloo
+      address: 200 University Ave W
+      city: Waterloo
+      region: Ontario
+      country: Canada
+      postal_code: N2L 3G1 
   keywords:
     - reproducible experimentation
     - neurotechnology
