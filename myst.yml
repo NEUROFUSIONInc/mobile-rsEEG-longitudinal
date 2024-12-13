@@ -1,8 +1,8 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  title: 'Towards Longitudinal Mobile EEG Recordings Correlated with Behaviour'
-  subtitle: Comparing resting state alpha power changes through the day
+  title: 'Diurnal Variations in Alpha-Band Activity: Mapping Neural Correlates of Stress and Energy'
+  subtitle: 'Enabling Longitudinal Brain Data Collection in Home and Community Settings using NeuroFusion Explorer Platform & Mobile EEGs'
   thebe:
     binder:
       url: https://binder-preview.conp.cloud # NeuroLibre binder URL, production will override this.
@@ -11,11 +11,8 @@ project:
   authors:
     - name: Minarose Ismail
       affiliations: uToronto;SickKids
-      email: agah.karakuzu@polymtl.ca
-      twitter: agahkarakuzu
       equal_contributor: true
-      url: https://agah.dev
-      github: agahkarakuzu
+      url: https://minarose.ca
       roles:
         - Analysis
         - Data Collection
@@ -48,6 +45,7 @@ project:
       github: orehga
       email: ore@usefusion.app
       twitter: ogundipeore
+      url: https://oreogundipe.dev/whoami
       roles:
         - Software
         - Experiment Design
@@ -65,6 +63,7 @@ project:
       postal_code: M5H 1A1
     - id: UToronto
       institution: University of Toronto
+      ror: https://ror.org/03dbr7087
       department: Institute of Medical Science
       address: 1 King's College Cir
       city: Toronto
